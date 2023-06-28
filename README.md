@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
-
 # OI sou o Artur Diniz
 ## Sou estudante de Programação full-stack em desenvolvimento de sistemas na ETEC Horácio Agusto da Silveira
 
