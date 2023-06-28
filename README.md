@@ -9,3 +9,4 @@
 
  No Momomneto não sou fluente em mais nem uma lingua além de português porém prentendo estudar após terminar os estudos em desenvolvimentos de sistemas
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
